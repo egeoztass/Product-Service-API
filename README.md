@@ -2,6 +2,7 @@
 Product Service API
 
 Description
+
 This is a simple RESTful API developed with Spring Boot for managing products. The API allows clients to create, view, update and delete products.
 
 The API supports the following operations:
