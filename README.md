@@ -31,15 +31,23 @@ Run the application with the following command:
 
 API Endpoints:
 Method	Endpoint	Description
+
 POST	/api/v1/user	Create a new user
+
 GET	/api/v1/user	Retrieve all users
+
 POST	/api/v1/product	Create a new product
+
 GET	/api/v1/product	Retrieve all products
+
 PUT	/api/v1/product/{id}/{ownerId}	Update a product by ID and OwnerId
+
 DELETE	/api/v1/product/{id}/{ownerId}	Delete a product by ID and OwnerId
+
 Please replace {id} and {ownerId} with actual values.
 
 Future Improvements
+
 Future versions of this API could include the following features:
 
 A real database instead of in-memory storage.
