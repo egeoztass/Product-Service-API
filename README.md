@@ -23,13 +23,20 @@ Requirements:
 -Maven
 
 Steps to run the application
+
 -Clone this repository.
+
 -Navigate into the directory of the project.
+
 -Build the project with the following Maven command:
+
 -Copy code
+
 -mvn clean install
+
 Run the application with the following command:
--java -jar target/demo-0.0.1-SNAPSHOT.jar
+
+java -jar target/demo-0.0.1-SNAPSHOT.jar
 
 API Endpoints:
 Method	Endpoint	Description
