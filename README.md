@@ -6,13 +6,20 @@ This is a simple RESTful API developed with Spring Boot for managing products. T
 The API supports the following operations:
 
 A client can create new products.
+
 A client can modify its own products but cannot modify others’ products.
+
 A client can delete its own products but cannot delete others’ products.
+
 A client can view all products.
+
 Setup
-Requirements
+
+Requirements:
+
 -Java 11
 -Maven
+
 Steps to run the application
 -Clone this repository.
 -Navigate into the directory of the project.
@@ -21,6 +28,7 @@ Steps to run the application
 -mvn clean install
 Run the application with the following command:
 -java -jar target/demo-0.0.1-SNAPSHOT.jar
+
 API Endpoints:
 Method	Endpoint	Description
 POST	/api/v1/user	Create a new user
