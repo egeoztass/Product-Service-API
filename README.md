@@ -1,4 +1,4 @@
-# Ayrotekcodingchallange
+# Simple Microservice Spring Backend
 Product Service API
 
 Description
